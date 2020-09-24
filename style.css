@@ -1,6 +1,6 @@
 article p {
     color: blue;
-}
+    }
 
 a:hover {
     color: red;
@@ -9,3 +9,16 @@ a:hover {
 ul {
     color: blue;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 60%;
+}
+
+
