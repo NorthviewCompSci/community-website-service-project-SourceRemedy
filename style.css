@@ -5,3 +5,7 @@ article p {
 a:hover {
     color: red;
 }
+
+ul {
+    color: blue;
+}
