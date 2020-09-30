@@ -1,13 +1,13 @@
-article p {
-    color: blue;
+p {
+    color: #05435C;
     }
 
 a:hover {
-    color: red;
+    color: #347B98;
 }
 
 ul {
-    color: blue;
+    color: #05435C;
 }
 
 body{
@@ -15,10 +15,34 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #DBF5FF;
 }
 
 main{
     width: 60%;
+    
 }
+
+img {
+    width: 60%;
+    height: 20%;
+}
+
+h1 {
+    color: #05435C
+}
+
+h2 {
+    color: #05435C
+}
+
+h3 {
+    color: #05435C
+}
+
+a {
+    color: #67AFCB;
+}
+
 
 
