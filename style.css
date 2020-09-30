@@ -3,7 +3,7 @@ p {
     }
 
 a:hover {
-    color: #347B98;
+    color: red;
 }
 
 ul {
@@ -24,8 +24,10 @@ main{
 }
 
 img {
+    display: block;
     width: 60%;
     height: 20%;
+    margin: 0 auto;
 }
 
 h1 {
