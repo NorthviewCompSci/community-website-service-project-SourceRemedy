@@ -8,6 +8,7 @@ a:hover {
 
 ul {
     color: #05435C;
+    text-align: left;
 }
 
 body{
@@ -15,12 +16,14 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color: #DBF5FF;
+    border: 3px solid #05435C;
 }
 
 main{
     width: 60%;
-    
+    padding: 25px;
 }
 
 img {
@@ -31,20 +34,30 @@ img {
 }
 
 h1 {
-    color: #05435C
+    color: #05435C;
+    border: 3px solid #05435C;
+    padding: 10px;
 }
 
 h2 {
-    color: #05435C
+    color: #05435C;
+    border: 3px solid #05435C;
+    padding: 10px;
 }
 
-h3 {
-    color: #05435C
+h3 { 
+    color: #05435C;
 }
 
 a {
     color: #67AFCB;
+    border: 3px solid #05435C;
+    padding: 10px;
 }
 
-
+article {
+    border: 3px solid #05435C;
+    padding: 10px;
+    margin: 25px;
+}
 
